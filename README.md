@@ -8,7 +8,7 @@
 
 
 ### 🎓 Education
-- 📚 Currently PHD student at **Fudan University (FDU)**
+- 📚 Currently a PHD student at **Fudan University (FDU)**
   
 - 🎯 B.Eng. in Artificial Intelligence from **Shanghai Jiao Tong University (SJTU)**
 
