@@ -16,7 +16,6 @@
 ### 🔬 Research Interests
 - Large Language Models (LLMs)
 - Synthetic Data
-- 🍽️ Fine Food Explorer
 
 
 ### 🛠️ Tech Stack
